@@ -1,7 +1,7 @@
 # BinaryTree
 # Learning from Striver(Free ka Tree Series) :
 
-# Code covered :
+# Codes covered :
 1) BFS or Level Order Traversal
 2) DFS (Preorder, Inorder, Postorder) by Recusion
 3) DFS (Preorder, Inorder, Postorder) by Iteration
