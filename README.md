@@ -1,5 +1,4 @@
 # BinaryTree
-# Learning from Striver(Free ka Tree Series) :
 
 # Codes covered :
 1) BFS or Level Order Traversal
