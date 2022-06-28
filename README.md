@@ -6,3 +6,6 @@
 3) DFS (Preorder, Inorder, Postorder) by Iteration
 4) Preorder, Inorder, Postorder in one traversal
 5) Maximum Depth of Binary Tree (By Recursion and Level Order Traversal)
+6) Check for Balanced Binary Tree
+7) Diameter of a Binary Tree
+8) Maximum Path Sum in Binary Tree
