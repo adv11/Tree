@@ -42,5 +42,7 @@ public class MaximumPathSum_inBinaryTree extends TreeNode{
         tree.root.right.left = new TreeNode(6);
         tree.root.right.right = new TreeNode(7);
         tree.root.right.right.left = new TreeNode(8);
+        
+        System.out.println("Maximum path sum of the given tree is : " + maxPathSum(tree.root));
     }
 }
